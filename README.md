@@ -17,7 +17,7 @@
 
 <div>
 <span><img align="left" src="https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/languages.svg" alt="500BoiledPotatoes" /></span>
-
+<span><img align="left" src="https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/overview.svg" alt="500BoiledPotatoes" /></span>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=500BoiledPotatoes&hide=contribs&count_private=true&show_icons=true&rank_icon=github" alt="500BoiledPotatoes" /></span>
 <div>
 
