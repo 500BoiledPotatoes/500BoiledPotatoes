@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jingyu Lu</h1>
 
-<h3 align="center">A senior student at BDIC</h3>
+<h3 align="center">Received an honours degree from BJUT and a first class degree from UCD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=500BoiledPotatoes&label=Profile%20views&color=0e75b6&style=flat" alt="500BoiledPotatoes" /> </p>
 
-- 🔭 I’m currently interning at Sony
+- 🔭 I'm currently in GAP Year
 
-- 🌱 I’m currently learning **Redis**, **Pandas**, **Springboot, Spring JPA**, **Vue**
+- 🌱 I’m currently learning **Redis**, **DL**, **Springboot, Spring JPA**, **Vue**, **HPC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/500BoiledPotatoes/](https://github.com/500BoiledPotatoes/)
 
