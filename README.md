@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingyu Lu</h1>
 
-<h3 align="center">Received an honours degree from BJUT and a first class degree from UCD</h3>
+<h3 align="center">Received a first class degree from UCD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=500BoiledPotatoes&label=Profile%20views&color=0e75b6&style=flat" alt="500BoiledPotatoes" /> </p>
 
