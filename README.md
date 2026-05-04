@@ -39,7 +39,7 @@
 
 ---
 
-<h3><code>&gt; whoami</code></h3>
+## About
 
 I build things close to the metal — CUDA kernels, distributed solvers, OS internals. My interests span **high-performance computing**, **systems programming**, and (more recently) **LLM safety research**.
 
@@ -47,14 +47,13 @@ Currently at **Australian National University**, previously **BJUT** and **Unive
 
 - 🔭 &nbsp;Studying at **ANU** · applying for **PhD** positions
 - 🌱 &nbsp;Deep in **CUDA**, **MPI**, **HPC**, and **Deep Learning**
-
 - 📫 &nbsp;**jingyu.lu@anu.edu.au**
 
 <br>
 
 ---
 
-<h3><code>&gt; ls ./projects</code></h3>
+## Projects
 
 <br>
 
@@ -111,7 +110,7 @@ Kernel-level extensions to MIT's **xv6**: system calls, scheduling algorithms, v
 GPU solver for advection equations using **CUDA shared memory tiling**. Warp-aligned data staging cuts global memory bandwidth and maximises on-chip reuse.
 
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="cuda" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="cpp" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="c" />
 <img src="https://img.shields.io/badge/HPC-6e7681?style=flat-square" alt="hpc" />
 <img src="https://img.shields.io/badge/GPU-6e7681?style=flat-square" alt="gpu" />
 
@@ -148,7 +147,6 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
 
 </td>
 <td width="50%" valign="top">
-<!-- reserved for future safety projects -->
 </td>
 </tr>
 </table>
@@ -157,7 +155,7 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
 
 ---
 
-<h3><code>&gt; cat tech_stack.txt</code></h3>
+## Tech Stack
 
 <br>
 
@@ -166,7 +164,6 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
   <td><b>Low-level</b></td>
   <td>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
     <img src="https://img.shields.io/badge/MPI-6e7681?style=flat-square" alt="MPI" />
     <img src="https://img.shields.io/badge/POSIX-6e7681?style=flat-square" alt="POSIX" />
@@ -187,24 +184,22 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
   </td>
 </tr>
-
 </table>
 
 <br>
 
 ---
 
-<h3><code>&gt; git log --stat</code></h3>
+## Stats
 
 <br>
 
 <p>
 <img height="160" src="https://streak-stats.demolab.com/?user=500BoiledPotatoes&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff&stroke=e1e4e8&ring=4a90d9&fire=4a90d9&currStreakNum=24292f&sideNums=24292f&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" alt="streak" />
 &nbsp;
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=500BoiledPotatoes&theme=github" alt="langs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=500BoiledPotatoes&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff&langs_count=4&hide=javascript,html,css,java,typescript,shell,makefile,cmake,batchfile" alt="top languages" />
 </p>
 
 <p>
