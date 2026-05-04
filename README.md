@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<h1>Lu Jingyu</h1>
+<h1>Hi, I'm Jingyu 👋</h1>
+<!-- <h3>🖥️ Systems &nbsp;·&nbsp; ⚡ HPC &nbsp;·&nbsp; 🔐 LLM Safety &nbsp;·&nbsp; 🎓 PhD Applicant</h3> -->
 
 <p>
 <img src="https://img.shields.io/badge/ANU-Postgraduate-0d1117?style=flat-square&labelColor=0d1117&color=4a90d9" alt="ANU" />
@@ -43,7 +44,7 @@
 
 I build things close to the metal. My interests centre on **computer architecture** and **systems programming** — from OS kernels and memory allocators to CUDA kernels and distributed solvers. I care about how software maps onto hardware, and how to extract maximum performance from modern architectures.
 
-Currently at **Australian National University**, previously **Beijing University of Technology (BJUT)** and **University College Dublin**, where I graduated with First Class Honours.
+Currently at **Australian National University**, previously **Beijing University of Technology (BJUT)** and **University College Dublin (UCD)**, where I graduated with First Class Honours.
 
 - 🔭 &nbsp;Studying at **ANU** · applying for **PhD** positions
 - 🌱 &nbsp;Deep in **computer architecture**, **OS** and **HPC**
@@ -182,7 +183,7 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
   <td><b>ML / AI</b></td>
   <td>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   </td>
 </tr>
