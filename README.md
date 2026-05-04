@@ -1,23 +1,121 @@
-<h1 align="center">Hi 👋, I'm Jingyu Lu</h1>
-
-<h3 align="center">Received a first class degree from UCD</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=500BoiledPotatoes&label=Profile%20views&color=0e75b6&style=flat" alt="500BoiledPotatoes" /> </p>
-
-- 🔭 I'm currently studying at ANU.
-
-- 🌱 I’m currently learning **Redis**, **DL**, **Springboot, Spring JPA**, **Vue**, **HPC**
-
-- 👨‍💻 All of my projects are available at [https://github.com/500BoiledPotatoes/](https://github.com/500BoiledPotatoes/)
-
-- 📫 How to reach me **jingyu.lu@anu.edu.au**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://cn.ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://www.opengl.org/img/opengl_logo.jpg" alt="opengl" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<div>
-<span><img align="left" src="https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/languages.svg" alt="500BoiledPotatoes" /></span>
-<span><img align="left" src="https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/overview.svg" alt="500BoiledPotatoes" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=500BoiledPotatoes&hide=contribs&count_private=true&show_icons=true&rank_icon=github" alt="500BoiledPotatoes" /></span>
-<div>
-
+<div align="center">
+```
+╔═══════════════════════════════════════════════════════════╗
+║   systems · hpc · parallel computing · llm safety        ║
+╚═══════════════════════════════════════════════════════════╝
+```
+ 
+# Lu Jingyu &nbsp;·&nbsp; 卢靖宇
+ 
+**ANU** &nbsp;|&nbsp; BJUT '24 &nbsp;·&nbsp; UCD '24 *(First Class Honours)*
+&nbsp;
+Beijing, China &nbsp;·&nbsp; [jingyu.lu@anu.edu.au](mailto:jingyu.lu@anu.edu.au) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jingyu-lu-9ba475274/)
+ 
+</div>
+---
+ 
+## 🔬 &nbsp;About
+ 
+I build things close to the metal. My work sits at the intersection of **high-performance computing**, **systems programming**, and (more recently) **LLM safety research**. I'm interested in how software can extract every last cycle from modern hardware—and how AI systems can be made more robust.
+ 
+Currently studying at **Australian National University**, previously at **BJUT** and **University College Dublin**.
+ 
+---
+ 
+## 🚀 &nbsp;Featured Projects
+ 
+### ⚡ Parallel & Distributed Systems
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+**[shared-memory-gpu-advection-solver](https://github.com/500BoiledPotatoes/shared-memory-gpu-advection-solver)**
+ 
+CUDA-based GPU solver for advection equations using shared memory tiling. Optimises global memory bandwidth through warp-aligned data access and on-chip shared memory staging.
+ 
+`CUDA` `C++` `HPC` `GPU`
+ 
+</td>
+<td width="50%" valign="top">
+**[distributed-advection-solver-mpi](https://github.com/500BoiledPotatoes/distributed-advection-solver-mpi)**
+ 
+Distributed memory advection solver using MPI. Implements halo exchange with non-blocking communication to overlap computation and communication across multiple nodes.
+ 
+`C` `MPI` `Distributed Systems` `HPC`
+ 
+</td>
+</tr>
+</table>
+---
+ 
+### 🖥️ Systems Programming (CSAPP)
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+**[CSAPP-concurrent-train-traffic-control](https://github.com/500BoiledPotatoes/CSAPP-concurrent-train-traffic-control)**
+ 
+Concurrent train scheduling system with mutual exclusion, deadlock prevention, and fine-grained lock management. Built around POSIX threads and semaphores.
+ 
+`C` `Concurrency` `POSIX Threads` `Deadlock`
+ 
+</td>
+<td width="50%" valign="top">
+**[CSAPP-memory-allocators-and-garbage-collectors](https://github.com/500BoiledPotatoes/CSAPP-memory-allocators-and-garbage-collectors)**
+ 
+Heap allocator with explicit free lists and coalescing, plus a mark-and-sweep garbage collector. Balances throughput and memory utilisation under tight constraints.
+ 
+`C` `Memory Management` `GC` `Systems`
+ 
+</td>
+</tr>
+</table>
+---
+ 
+### 🐧 &nbsp;OS & Security
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+**[xv6-os-projects](https://github.com/500BoiledPotatoes/xv6-os-projects)**
+ 
+Extensions to MIT's xv6 teaching OS: system calls, scheduling, virtual memory, and file system features implemented at the kernel level.
+ 
+`C` `OS` `Kernel` `xv6`
+ 
+</td>
+<td width="50%" valign="top">
+**[garak](https://github.com/500BoiledPotatoes/garak)**
+ 
+Contributing to an open-source LLM vulnerability scanner. Probes language models for jailbreaks, hallucinations, and safety failures.
+ 
+`Python` `LLM Safety` `Red-teaming`
+ 
+</td>
+</tr>
+</table>
+---
+ 
+## 🛠️ &nbsp;Tech Stack
+ 
+```
+Low-level    │  C  ·  C++  ·  CUDA  ·  MPI  ·  POSIX
+Systems      │  Linux  ·  xv6  ·  Docker  ·  Nginx
+ML / Python  │  Python  ·  TensorFlow  ·  Pandas
+Web / Other  │  Java  ·  Spring Boot  ·  Vue  ·  MySQL
+```
+ 
+---
+ 
+## 📊 &nbsp;Stats
+ 
+<div align="center">
+[![Overview](https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/overview.svg)](https://github.com/500BoiledPotatoes/github-stats)&nbsp;&nbsp;[![Languages](https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/languages.svg)](https://github.com/500BoiledPotatoes/github-stats)
+ 
+</div>
+---
+ 
+<div align="center">
+*"Premature optimisation is the root of all evil — but late optimisation is the root of all latency."*
+ 
+</div>
