@@ -11,7 +11,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/UCD-First%20Class%20Honours-0d1117?style=flat-square&labelColor=0d1117&color=4a90d9" alt="UCD" />
 &nbsp;
-<img src="https://img.shields.io/badge/BJUT%20'24-Graduate-0d1117?style=flat-square&labelColor=0d1117&color=4a90d9" alt="BJUT" />
+<img src="https://img.shields.io/badge/BJUT'24-Graduate-0d1117?style=flat-square&labelColor=0d1117&color=4a90d9" alt="BJUT" />
 </p>
 
 <p>
@@ -27,8 +27,8 @@
 </p>
 
 <p>
+<code>computer architecture</code> &nbsp;·&nbsp;
 <code>systems</code> &nbsp;·&nbsp;
-<code>hpc</code> &nbsp;·&nbsp;
 <code>parallel computing</code> &nbsp;·&nbsp;
 <code>llm safety</code>
 </p>
@@ -41,12 +41,12 @@
 
 ## About
 
-I build things close to the metal — CUDA kernels, distributed solvers, OS internals. My interests span **high-performance computing**, **systems programming**, and (more recently) **LLM safety research**.
+I build things close to the metal. My interests centre on **computer architecture** and **systems programming** — from OS kernels and memory allocators to CUDA kernels and distributed solvers. I care about how software maps onto hardware, and how to extract maximum performance from modern architectures.
 
-Currently at **Australian National University**, previously **BJUT** and **University College Dublin**, where I graduated with First Class Honours.
+Currently at **Australian National University**, previously **Beijing University of Technology (BJUT)** and **University College Dublin**, where I graduated with First Class Honours.
 
 - 🔭 &nbsp;Studying at **ANU** · applying for **PhD** positions
-- 🌱 &nbsp;Deep in **CUDA**, **MPI**, **HPC**, and **Deep Learning**
+- 🌱 &nbsp;Deep in **computer architecture**, **OS** and **HPC**
 - 📫 &nbsp;**jingyu.lu@anu.edu.au**
 
 <br>
@@ -199,7 +199,7 @@ Contributing to an open-source **LLM vulnerability scanner** — probing models 
 <p>
 <img height="160" src="https://streak-stats.demolab.com/?user=500BoiledPotatoes&hide_border=true&date_format=j%20M%5B%20Y%5D&background=ffffff&stroke=e1e4e8&ring=4a90d9&fire=4a90d9&currStreakNum=24292f&sideNums=24292f&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681" alt="streak" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=500BoiledPotatoes&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff&langs_count=4&hide=javascript,html,css,java,typescript,shell,makefile,cmake,batchfile" alt="top languages" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=500BoiledPotatoes&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff&langs_count=4&hide=javascript,html,css,java,typescript,shell,makefile,cmake,batchfile,dockerfile" alt="top languages" />
 </p>
 
 <p>
