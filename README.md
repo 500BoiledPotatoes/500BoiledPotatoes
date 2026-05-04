@@ -1,121 +1,147 @@
-<div align="center">
-```
-╔═══════════════════════════════════════════════════════════╗
-║   systems · hpc · parallel computing · llm safety        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<!--
+  ╔══════════════════════════════════════════════╗
+  ║   500BoiledPotatoes / README.md              ║
+  ║   Lu Jingyu · Systems · HPC · LLM Safety    ║
+  ╚══════════════════════════════════════════════╝
+-->
  
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=systems+%C2%B7+hpc+%C2%B7+parallel+computing+%C2%B7+llm+safety" alt="typing" />
 # Lu Jingyu &nbsp;·&nbsp; 卢靖宇
  
-**ANU** &nbsp;|&nbsp; BJUT '24 &nbsp;·&nbsp; UCD '24 *(First Class Honours)*
-&nbsp;
-Beijing, China &nbsp;·&nbsp; [jingyu.lu@anu.edu.au](mailto:jingyu.lu@anu.edu.au) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jingyu-lu-9ba475274/)
- 
+<p>
+  <img src="https://img.shields.io/badge/ANU-Postgraduate-1a1a2e?style=flat-square&labelColor=1a1a2e&color=4a90d9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/UCD-First%20Class%20Honours-1a1a2e?style=flat-square&labelColor=1a1a2e&color=4a90d9" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BJUT%20'24-Graduate-1a1a2e?style=flat-square&labelColor=1a1a2e&color=4a90d9" />
+</p>
+<p>
+  <a href="mailto:jingyu.lu@anu.edu.au">
+    <img src="https://img.shields.io/badge/jingyu.lu@anu.edu.au-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jingyu-lu-9ba475274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=500BoiledPotatoes&label=profile+views&color=555&style=flat-square" />
+</p>
 </div>
+<br>
 ---
  
-## 🔬 &nbsp;About
+### `> whoami`
  
-I build things close to the metal. My work sits at the intersection of **high-performance computing**, **systems programming**, and (more recently) **LLM safety research**. I'm interested in how software can extract every last cycle from modern hardware—and how AI systems can be made more robust.
+I build things close to the metal — CUDA kernels, distributed solvers, OS internals.
+My interests span **high-performance computing**, **systems programming**, and (more recently) **LLM safety research**.
  
-Currently studying at **Australian National University**, previously at **BJUT** and **University College Dublin**.
+Currently at **Australian National University**, previously **BJUT** and **University College Dublin**, where I graduated with First Class Honours.
  
+<br>
 ---
  
-## 🚀 &nbsp;Featured Projects
+### `> ls ./projects`
  
-### ⚡ Parallel & Distributed Systems
+<br>
+#### ⚡ &nbsp;Parallel & High-Performance Computing
  
 <table>
 <tr>
 <td width="50%" valign="top">
-**[shared-memory-gpu-advection-solver](https://github.com/500BoiledPotatoes/shared-memory-gpu-advection-solver)**
+#### [`shared-memory-gpu-advection-solver`](https://github.com/500BoiledPotatoes/shared-memory-gpu-advection-solver)
  
-CUDA-based GPU solver for advection equations using shared memory tiling. Optimises global memory bandwidth through warp-aligned data access and on-chip shared memory staging.
+GPU solver for advection equations using **CUDA shared memory tiling**. Warp-aligned data staging reduces global memory pressure and maximises on-chip reuse.
  
-`CUDA` `C++` `HPC` `GPU`
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/HPC-555?style=flat-square" /> <img src="https://img.shields.io/badge/GPU-555?style=flat-square" />
  
 </td>
 <td width="50%" valign="top">
-**[distributed-advection-solver-mpi](https://github.com/500BoiledPotatoes/distributed-advection-solver-mpi)**
+#### [`distributed-advection-solver-mpi`](https://github.com/500BoiledPotatoes/distributed-advection-solver-mpi)
  
-Distributed memory advection solver using MPI. Implements halo exchange with non-blocking communication to overlap computation and communication across multiple nodes.
+Multi-node advection solver with **halo exchange** and non-blocking MPI communication. Computation and communication are pipelined across processes.
  
-`C` `MPI` `Distributed Systems` `HPC`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/MPI-555?style=flat-square" /> <img src="https://img.shields.io/badge/Distributed-555?style=flat-square" />
  
 </td>
 </tr>
 </table>
----
- 
-### 🖥️ Systems Programming (CSAPP)
+<br>
+#### 🖥️ &nbsp;Systems Programming
  
 <table>
 <tr>
 <td width="50%" valign="top">
-**[CSAPP-concurrent-train-traffic-control](https://github.com/500BoiledPotatoes/CSAPP-concurrent-train-traffic-control)**
+#### [`CSAPP-concurrent-train-traffic-control`](https://github.com/500BoiledPotatoes/CSAPP-concurrent-train-traffic-control)
  
-Concurrent train scheduling system with mutual exclusion, deadlock prevention, and fine-grained lock management. Built around POSIX threads and semaphores.
+Concurrent scheduler for train routing with **deadlock prevention** via resource ordering. Fine-grained mutex strategy minimises contention across critical sections.
  
-`C` `Concurrency` `POSIX Threads` `Deadlock`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Concurrency-555?style=flat-square" /> <img src="https://img.shields.io/badge/POSIX_Threads-555?style=flat-square" />
  
 </td>
 <td width="50%" valign="top">
-**[CSAPP-memory-allocators-and-garbage-collectors](https://github.com/500BoiledPotatoes/CSAPP-memory-allocators-and-garbage-collectors)**
+#### [`CSAPP-memory-allocators-and-garbage-collectors`](https://github.com/500BoiledPotatoes/CSAPP-memory-allocators-and-garbage-collectors)
  
-Heap allocator with explicit free lists and coalescing, plus a mark-and-sweep garbage collector. Balances throughput and memory utilisation under tight constraints.
+Heap allocator with explicit free lists and **boundary-tag coalescing**, paired with a mark-and-sweep GC. Balanced for throughput and fragmentation.
  
-`C` `Memory Management` `GC` `Systems`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Memory_Management-555?style=flat-square" /> <img src="https://img.shields.io/badge/GC-555?style=flat-square" />
  
 </td>
 </tr>
 </table>
----
- 
-### 🐧 &nbsp;OS & Security
+<br>
+#### 🐧 &nbsp;OS &nbsp;&&nbsp; Security
  
 <table>
 <tr>
 <td width="50%" valign="top">
-**[xv6-os-projects](https://github.com/500BoiledPotatoes/xv6-os-projects)**
+#### [`xv6-os-projects`](https://github.com/500BoiledPotatoes/xv6-os-projects)
  
-Extensions to MIT's xv6 teaching OS: system calls, scheduling, virtual memory, and file system features implemented at the kernel level.
+Kernel-level extensions to MIT's **xv6**: system calls, scheduling algorithms, virtual memory management, and file system features — all implemented from scratch.
  
-`C` `OS` `Kernel` `xv6`
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Kernel-555?style=flat-square" /> <img src="https://img.shields.io/badge/OS-555?style=flat-square" />
  
 </td>
 <td width="50%" valign="top">
-**[garak](https://github.com/500BoiledPotatoes/garak)**
+#### [`garak`](https://github.com/500BoiledPotatoes/garak) &nbsp;<sub>*fork*</sub>
  
-Contributing to an open-source LLM vulnerability scanner. Probes language models for jailbreaks, hallucinations, and safety failures.
+Contributing to an open-source **LLM vulnerability scanner** — probing language models for jailbreaks, hallucination patterns, and safety boundary failures.
  
-`Python` `LLM Safety` `Red-teaming`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLM_Safety-555?style=flat-square" /> <img src="https://img.shields.io/badge/Red--teaming-555?style=flat-square" />
  
 </td>
 </tr>
 </table>
+<br>
 ---
  
-## 🛠️ &nbsp;Tech Stack
+### `> cat tech_stack.txt`
  
-```
-Low-level    │  C  ·  C++  ·  CUDA  ·  MPI  ·  POSIX
-Systems      │  Linux  ·  xv6  ·  Docker  ·  Nginx
-ML / Python  │  Python  ·  TensorFlow  ·  Pandas
-Web / Other  │  Java  ·  Spring Boot  ·  Vue  ·  MySQL
-```
+<br>
+| Layer | Stack |
+|---|---|
+| **Low-level** | C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; CUDA &nbsp;·&nbsp; MPI &nbsp;·&nbsp; POSIX |
+| **Systems** | Linux &nbsp;·&nbsp; xv6 &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Git |
+| **ML / AI** | Python &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; OpenGL |
+| **Web / Backend** | Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Vue &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; SQLite |
  
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cuda,python,java,linux,git,docker,tensorflow,spring,vue,mysql&theme=light" alt="tech stack icons" />
+</p>
+<br>
 ---
  
-## 📊 &nbsp;Stats
+### `> git log --stat`
+ 
+<br>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=500BoiledPotatoes&show_icons=true&hide=contribs&count_private=true&rank_icon=github&hide_border=true&title_color=111&icon_color=555&text_color=333&bg_color=fafafa" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=500BoiledPotatoes&layout=compact&hide_border=true&title_color=111&text_color=333&bg_color=fafafa&langs_count=6" alt="top languages" />
+</p>
+<br>
+---
  
 <div align="center">
-[![Overview](https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/overview.svg)](https://github.com/500BoiledPotatoes/github-stats)&nbsp;&nbsp;[![Languages](https://github.com/500BoiledPotatoes/github-stats/raw/master/generated/languages.svg)](https://github.com/500BoiledPotatoes/github-stats)
- 
-</div>
----
- 
-<div align="center">
-*"Premature optimisation is the root of all evil — but late optimisation is the root of all latency."*
- 
+<sub><i>"Premature optimisation is the root of all evil — but late optimisation is the root of all latency."</i></sub>
 </div>
